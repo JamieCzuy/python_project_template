@@ -1,3 +1,6 @@
+# Code Coverage ouput
+check_coverage/
+
 # VIM swp files
 *.swp
 
